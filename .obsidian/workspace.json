@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "427e6462855d1982",
+        "id": "d874fd7779e093a2",
         "type": "tabs",
         "children": [
           {
-            "id": "9f93efce4d84fcb5",
+            "id": "84c39a1d96e9f216",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "음운 변화.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "음운 변화.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "음운 변화.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "음운 변화.md"
+              }
             }
           }
         ]
@@ -138,6 +146,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9f93efce4d84fcb5",
-  "lastOpenFiles": []
+  "active": "7c1e6e45bccf22d0",
+  "lastOpenFiles": [
+    "음운 변화.md",
+    "2023-09-12.md"
+  ]
 }
