@@ -143,12 +143,15 @@
       "canvas:새 캔버스 만들기": false,
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7c1e6e45bccf22d0",
+  "active": "84c39a1d96e9f216",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-12 23.08.07.excalidraw.md",
     "음운 변화.md",
+    "Excalidraw",
     "2023-09-12.md"
   ]
 }
