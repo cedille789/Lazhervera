@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9822eb4b52842cd0",
@@ -150,8 +149,11 @@
   },
   "active": "4a20fb0b8e04ad23",
   "lastOpenFiles": [
-    "음운 변화.md",
+    "README.md",
     "겔레아어족/음운/겔레아조어.md",
+    "새 텍스트 문서.txt",
+    "새 폴더",
+    "음운 변화.md",
     "무제 폴더",
     "겔레아어족/음운",
     "겔레아어족",
