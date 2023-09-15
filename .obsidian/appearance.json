@@ -1,4 +1,7 @@
 {
   "accentColor": "",
-  "interfaceFontFamily": "Pretendard Variable"
+  "interfaceFontFamily": "Pretendard Variable",
+  "enabledCssSnippets": [
+    "default"
+  ]
 }

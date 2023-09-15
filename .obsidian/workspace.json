@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d874fd7779e093a2",
+        "id": "f05b8434591cdb82",
         "type": "tabs",
         "children": [
           {
-            "id": "4a20fb0b8e04ad23",
+            "id": "5458659966da9e53",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,10 +156,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a20fb0b8e04ad23",
+  "active": "5458659966da9e53",
   "lastOpenFiles": [
-    "README.md",
+    "무제 파일.canvas",
+    "2023-09-14.md",
     "겔레아어족/음운/겔레아조어.md",
+    "README.md",
     "새 텍스트 문서.txt",
     "새 폴더",
     "음운 변화.md",
