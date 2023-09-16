@@ -3,5 +3,6 @@
   "interfaceFontFamily": "Pretendard Variable",
   "enabledCssSnippets": [
     "default"
-  ]
+  ],
+  "baseFontSize": 16
 }
