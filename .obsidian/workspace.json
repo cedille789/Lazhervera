@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "6b472c95b08d6f85",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0248c288decf28a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73e0e6b13a7e2a2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "겔레아어족/음운/겔레아조어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "48b4002dc7d05005",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0cdb0657f668652",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d034d2a2c64391a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5bab214c6a13946",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb1c0dcafaac561c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5966cdf030cb20a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "39610b9046931e06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd359c6ffa3fdb5b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "겔레아어족/음운/겔레아조어.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d0e9fb5806597fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "겔레아어족/음운/겔레아조어.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "17d328c9e62c6aa0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ce1b9d8e0b860516",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "겔레아어족/음운/겔레아조어.md"
+              }
+            }
+          },
+          {
+            "id": "cf945060c1435901",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "73e0e6b13a7e2a2b",
+  "lastOpenFiles": []
+}
