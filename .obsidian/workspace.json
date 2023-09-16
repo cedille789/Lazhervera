@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "45e930876dd069e7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.13"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -167,7 +156,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45e930876dd069e7",
+  "active": "5458659966da9e53",
   "lastOpenFiles": [
     "무제 파일.canvas",
     "2023-09-14.md",
