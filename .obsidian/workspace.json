@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a0248c288decf28a",
+        "id": "8d1219c10f1674bf",
         "type": "tabs",
         "children": [
           {
-            "id": "73e0e6b13a7e2a2b",
+            "id": "de2c27a3510d1fde",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "겔레아어족/음운/겔레아조어.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4186362b7aae50df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "겔레아어족/음운/남겔레아어파/라졔르베라어.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "겔레아어족/음운/남겔레아어파/라졔르베라어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "겔레아어족/음운/남겔레아어파/라졔르베라어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "겔레아어족/음운/남겔레아어파/라졔르베라어.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,14 +147,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4186362b7aae50df",
+  "active": "de2c27a3510d1fde",
   "lastOpenFiles": [
-    "겔레아어족/음운/남겔레아어파/중세 라졔르베라어.md",
+    "겔레아어족/음운/겔레아조어.md",
     "겔레아어족/음운/남겔레아어파/라졔르베라어.md",
+    "겔레아어족/음운/남겔레아어파/중세 라졔르베라어.md",
     "겔레아어족/음운/북겔레아어파/북겔레아어.md",
     "겔레아어족/음운/북겔레아어파/풀르어.md",
     "겔레아어족/음운/중대 겔레아어.md",
-    "겔레아어족/음운/겔레아조어.md",
     "겔레아어족/음운/북겔레아어파",
     "겔레아어족/음운/남겔레아어파/남겔레아어.md",
     "겔레아어족/음운/남겔레아어파",
